@@ -14,6 +14,9 @@ h1 p{
 .orange{
     color: rgb(245, 135, 9);
 }
+.light{
+    color: gray;
+}
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(purple, orange);
@@ -21,10 +24,6 @@ h1 p{
     color: aliceblue;
     font-weight: 400;
     border-radius: 40px;
-    
-    
-
-
    
 }
 section{
@@ -62,4 +61,21 @@ section{
 
 }
 
+.recipies{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.recipies-section{
+    width: 80%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 5%;
+}
+.recipies-section img{
+    width: 100%; 
+    padding-top: 10%;
 
+}
